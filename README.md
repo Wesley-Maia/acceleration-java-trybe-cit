@@ -2,7 +2,8 @@
 
 ## Essenciais de Java :white_check_mark:
 
-#### Desafios Semana 1:
+
+#### Semana 1:
 ##### 30/03 - Essenciais de Java - Variáveis e seus tipos
 - [x] 1: _[Exercise - antecessor-sucessor](https://github.com/tryber/acc-java-02-exercises-antecessor-sucessor/pull/17)_
 - [x] 2: _[Exercise - calcula-area](https://github.com/tryber/acc-java-02-exercises-calcula-area/pull/19)_
@@ -23,6 +24,29 @@
 - [ ] 13: _[Exercise - media-anual](https://github.com/tryber/acc-java-02-exercises-media-anual)_
 
 ##### 01/04 - Desafio Agregador
-- [x] 1: _[Desafio - idade-em-dias](https://github.com/tryber/acc-java-02-exercises-controle-de-acesso/pull/27)_
+- [x] 1: _[Desafio - controle-de-acesso](https://github.com/tryber/acc-java-02-exercises-controle-de-acesso/pull/27)_
 
-#### Desafios Semana 2:
+
+## Orientação a objetos :white_check_mark:
+
+#### Semana 2:
+##### 05/04 - Orientação a objetos - Abstração: as Classes em Java
+- [x] 14: _[Exercise - conta-poupanca](https://github.com/tryber/acc-java-02-exercises-conta-poupanca/pull/16)_
+
+##### 05/04 - Orientação a objetos - Abstração: as Classes em Java
+- [x] 15: _[Exercise - encapsulamento-recursos-humanos](https://github.com/tryber/acc-java-02-exercises-encapsulamento-recursos-humanos/pull/14)_
+
+##### 06/04 - Orientação a objetos - Encapsulamento e Herança
+- [x] 16: _[Exercise - gerar-pessoa-usuaria](https://github.com/tryber/acc-java-02-exercises-gerar-pessoa-usuaria/pull/17)_
+
+##### 07/04 - Orientação a objetos - Polimorfismo
+- [x] 17: _[Exercise - polimorfismo-recursos-humanos](https://github.com/tryber/acc-java-02-exercises-polimorfismo-recursos-humanos/pull/15)_
+
+##### 08/04 - Orientação a objetos - Interfaces e Classes Abstratas
+- [x] 18: _[Exercise - jogo-das-fazendas](https://github.com/tryber/acc-java-02-exercises-jogo-das-fazendas/pull/18)_
+
+
+#### Semana 3:
+##### 12/04 - Desafio Agregador
+- [x] 2: _[Desafio - sistema-de-votacao](https://github.com/tryber/acc-java-02-exercises-sistema-de-votacao/pull/19)_
+- [x] 
