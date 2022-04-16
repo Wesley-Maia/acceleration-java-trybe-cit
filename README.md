@@ -46,7 +46,23 @@
 - [x] 18: _[Exercise - jogo-das-fazendas](https://github.com/tryber/acc-java-02-exercises-jogo-das-fazendas/pull/18)_
 
 
+## Manipulação de textos e arquivos :white_check_mark:
+
 #### Semana 3:
 ##### 12/04 - Desafio Agregador
 - [x] 2: _[Desafio - sistema-de-votacao](https://github.com/tryber/acc-java-02-exercises-sistema-de-votacao/pull/19)_
-- [x] 
+
+
+##### 13/04 - Manipulação de textos e arquivos - Leitura e escrita em arquivos
+- [ ] 19: _[Exercise - gerador-senhas](https://github.com/tryber/acc-java-02-exercises-gerador-senhas)_
+
+##### 13/04 - Manipulação de textos e arquivos - Lidando com Strings
+- [ ] 20: _[Exercise - transforma-texto](https://github.com/tryber/acc-java-02-exercises-transforma-texto)_
+
+##### 12/04 - Desafio Agregador
+- [ ] 3: _[Desafio - conversor-csv](https://github.com/tryber/acc-java-02-exercises-conversor-csv)_
+
+
+## Tratamento de erros :white_check_mark:
+
+#### Semana 4:
