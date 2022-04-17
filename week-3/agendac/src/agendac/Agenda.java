@@ -1,8 +1,6 @@
 package agendac;
 
-import java.io.BufferedWriter;
-import java.io.File;
-import java.io.FileWriter;
+import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -44,9 +42,31 @@ public class Agenda {
     }
 
     public void exibirContato() {
-        for (Contato contato : contatos) {
-            System.out.println("Nome: " + contato.getNome());
-            System.out.println("Telefone: " + contato.getTelefone());
+//        for (Contato contato : contatos) {
+//            System.out.println("Nome: " + contato.getNome());
+//            System.out.println("Telefone: " + contato.getTelefone());
+//        }
+        try {
+            FileReader leitorArquivo = null;
+            BufferedReader bufferedLeitor = null;
+
+            if (arquivoBancoDados.exists()) {
+                leitorArquivo = new FileReader(arquivoBancoDados);
+                bufferedLeitor = new BufferedReader(leitorArquivo);
+
+                String conteudoLinha = bufferedLeitor.readLine();
+
+                while (conteudoLinha != null) {
+                    System.out.println(conteudoLinha);
+                    conteudoLinha = bufferedLeitor.readLine();
+                }
+
+                leitorArquivo.close();
+                bufferedLeitor.close();
+            }
+
+        } catch (Exception e) {
+            e.printStackTrace();
         }
     }
 }
