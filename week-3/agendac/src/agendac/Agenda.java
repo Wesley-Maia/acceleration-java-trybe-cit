@@ -10,7 +10,7 @@ public class Agenda {
 
     public Agenda() {
         this.contatos = new ArrayList<Contato>();
-        this.arquivoBancoDados = new File("C:\\Users\\maiaw\\OneDrive\\Desktop\\Java Aceleração\\acceleration-java-trybe-cit\\week-3\\banco.txt");
+        this.arquivoBancoDados = new File("C:\\Users\\maiaw\\banco.txt");
     }
 
     public void adicionarContato(Contato contato) {
