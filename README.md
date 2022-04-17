@@ -52,17 +52,23 @@
 ##### 12/04 - Desafio Agregador
 - [x] 2: _[Desafio - sistema-de-votacao](https://github.com/tryber/acc-java-02-exercises-sistema-de-votacao/pull/19)_
 
-
 ##### 13/04 - Manipulação de textos e arquivos - Leitura e escrita em arquivos
-- [ ] 19: _[Exercise - gerador-senhas](https://github.com/tryber/acc-java-02-exercises-gerador-senhas)_
+- [x] 19: _[Exercise - gerador-senhas](https://github.com/tryber/acc-java-02-exercises-gerador-senhas/pull/14)_
 
 ##### 13/04 - Manipulação de textos e arquivos - Lidando com Strings
 - [ ] 20: _[Exercise - transforma-texto](https://github.com/tryber/acc-java-02-exercises-transforma-texto)_
-
-##### 12/04 - Desafio Agregador
-- [ ] 3: _[Desafio - conversor-csv](https://github.com/tryber/acc-java-02-exercises-conversor-csv)_
 
 
 ## Tratamento de erros :white_check_mark:
 
 #### Semana 4:
+##### 19/04 - Desafio Agregador
+- [ ] 3: _[Desafio - conversor-csv](https://github.com/tryber/acc-java-02-exercises-conversor-csv)_
+
+##### 19/04 - Tratamento de erros - Try/Catch! As exceções que Java lança e as formas de pegá-las
+- [ ] 21: _[Exercise - divisor](https://github.com/tryber/acc-java-02-exercises-divisor)_
+- [ ] 22: _[Exercise - tratando-nulos](https://github.com/tryber/acc-java-02-exercises-tratando-nulos)_
+
+##### 20/04 - Tratamento de erros - Refinando seu tratamento de erros
+- [ ] 23: _[Exercise - excecao-maior-idade](https://github.com/tryber/acc-java-02-exercises-excecao-maior-idade)_
+- [ ] 24: _[Exercise - excecao-leitura-arquivos](https://github.com/tryber/acc-java-02-exercises-excecao-leitura-arquivos)_
