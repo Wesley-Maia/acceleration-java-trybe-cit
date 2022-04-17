@@ -14,8 +14,10 @@ public class Agenda {
     }
 
     public void adicionarContato(Contato contato) {
-//        this.contatos.add(contato);
-//        System.out.println("Contato adicionado com sucesso!");
+        /*
+        this.contatos.add(contato);
+        System.out.println("Contato adicionado com sucesso!");
+         */
         try {
             FileWriter escritorArquivo = null;
             BufferedWriter bufferedEscritor = null;
@@ -42,10 +44,12 @@ public class Agenda {
     }
 
     public void exibirContato() {
-//        for (Contato contato : contatos) {
-//            System.out.println("Nome: " + contato.getNome());
-//            System.out.println("Telefone: " + contato.getTelefone());
-//        }
+        /*
+        for (Contato contato : contatos) {
+            System.out.println("Nome: " + contato.getNome());
+            System.out.println("Telefone: " + contato.getTelefone());
+        }
+         */
         try {
             FileReader leitorArquivo = null;
             BufferedReader bufferedLeitor = null;
