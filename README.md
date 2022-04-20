@@ -15,7 +15,7 @@
 
 ##### 30/03 - Essenciais de Java - Estruturas condicionais e de repetição
 - [x] 8: _[Exercise - do-while-conexao-discada](https://github.com/tryber/acc-java-02-exercises-do-while-conexao-discada/pull/14)_
-- [ ] 9: _[Exercise - do-while-conexao-discada](https://github.com/tryber/acc-java-02-exercises-for-numeros-pares)_
+- [x] 9: _[Exercise - do-while-conexao-discada](https://github.com/tryber/acc-java-02-exercises-for-numeros-pares/pull/14)_
 - [x] 10: _[Exercise - if-else-desafio-estado-brasileiro](https://github.com/tryber/acc-java-02-exercises-if-else-desafio-estado-brasileiro/pull/13)_
 - [ ] 11: _[Exercise - while-desafio-numeros-aleatorios](https://github.com/tryber/acc-java-02-exercises-while-desafio-numeros-aleatorios)_
 
