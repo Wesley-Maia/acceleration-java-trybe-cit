@@ -56,19 +56,38 @@
 - [x] 19: _[Exercise - gerador-senhas](https://github.com/tryber/acc-java-02-exercises-gerador-senhas/pull/14)_
 
 ##### 13/04 - Manipulação de textos e arquivos - Lidando com Strings
-- [ ] 20: _[Exercise - transforma-texto](https://github.com/tryber/acc-java-02-exercises-transforma-texto)_
+- [x] 20: _[Exercise - transforma-texto](https://github.com/tryber/acc-java-02-exercises-transforma-texto/pull/21)_
 
 
 ## Tratamento de erros :white_check_mark:
 
 #### Semana 4:
 ##### 19/04 - Desafio Agregador
-- [ ] 3: _[Desafio - conversor-csv](https://github.com/tryber/acc-java-02-exercises-conversor-csv)_
+- [x] 3: _[Desafio - conversor-csv](https://github.com/tryber/acc-java-02-exercises-conversor-csv/pull/18)_
 
 ##### 19/04 - Tratamento de erros - Try/Catch! As exceções que Java lança e as formas de pegá-las
-- [ ] 21: _[Exercise - divisor](https://github.com/tryber/acc-java-02-exercises-divisor)_
+- [x] 21: _[Exercise - divisor](https://github.com/tryber/acc-java-02-exercises-divisor/pull/20)_
 - [ ] 22: _[Exercise - tratando-nulos](https://github.com/tryber/acc-java-02-exercises-tratando-nulos)_
 
 ##### 20/04 - Tratamento de erros - Refinando seu tratamento de erros
 - [ ] 23: _[Exercise - excecao-maior-idade](https://github.com/tryber/acc-java-02-exercises-excecao-maior-idade)_
 - [ ] 24: _[Exercise - excecao-leitura-arquivos](https://github.com/tryber/acc-java-02-exercises-excecao-leitura-arquivos)_
+
+
+## Coleções :white_check_mark:
+
+#### Semana 5:
+##### 26/04 - Desafio Agregador
+- [ ] 4: _[Desafio - simulador-de-pix](https://github.com/tryber/acc-java-02-exercises-simulador-de-pix)_
+
+##### 27/04 - Coleções - Coleções - List e Set
+- [ ] 25: _[Exercise - agenda](https://github.com/tryber/acc-java-02-exercises-agenda)_
+
+##### 27/04 - Coleções - Coleções - Map
+- [ ] 26: _[Exercise - agenda-com-map](https://github.com/tryber/acc-java-02-exercises-agenda-com-map)_
+
+##### 28/04 - Coleções - Streams: o que são e como criá-las
+- [ ] 27: _[Exercise - criador-stream](https://github.com/tryber/acc-java-02-exercises-criador-stream)_
+
+##### 29/04 - Coleções - Operando sobre Streams
+- [ ] 29: _[Exercise - concessionaria](https://github.com/tryber/acc-java-02-exercises-excecao-leitura-arquivos)_
