@@ -67,11 +67,11 @@
 
 ##### 19/04 - Tratamento de erros - Try/Catch! As exceções que Java lança e as formas de pegá-las
 - [x] 21: _[Exercise - divisor](https://github.com/tryber/acc-java-02-exercises-divisor/pull/20)_
-- [ ] 22: _[Exercise - tratando-nulos](https://github.com/tryber/acc-java-02-exercises-tratando-nulos)_
+- [x] 22: _[Exercise - tratando-nulos](https://github.com/tryber/acc-java-02-exercises-tratando-nulos/pull/19)_
 
 ##### 20/04 - Tratamento de erros - Refinando seu tratamento de erros
-- [ ] 23: _[Exercise - excecao-maior-idade](https://github.com/tryber/acc-java-02-exercises-excecao-maior-idade)_
-- [ ] 24: _[Exercise - excecao-leitura-arquivos](https://github.com/tryber/acc-java-02-exercises-excecao-leitura-arquivos)_
+- [x] 23: _[Exercise - excecao-maior-idade](https://github.com/tryber/acc-java-02-exercises-excecao-maior-idade/pull/19)_
+- [x] 24: _[Exercise - excecao-leitura-arquivos](https://github.com/tryber/acc-java-02-exercises-excecao-leitura-arquivos/pull/16)_
 
 
 ## Coleções :white_check_mark:
