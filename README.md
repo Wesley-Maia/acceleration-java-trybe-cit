@@ -78,16 +78,32 @@
 
 #### Semana 5:
 ##### 26/04 - Desafio Agregador
-- [ ] 4: _[Desafio - simulador-de-pix](https://github.com/tryber/acc-java-02-exercises-simulador-de-pix)_
+- [x] 4: _[Desafio - simulador-de-pix](https://github.com/tryber/acc-java-02-exercises-simulador-de-pix/pull/18)_
 
 ##### 27/04 - Coleções - Coleções - List e Set
-- [ ] 25: _[Exercise - agenda](https://github.com/tryber/acc-java-02-exercises-agenda)_
+- [x] 25: _[Exercise - agenda](https://github.com/tryber/acc-java-02-exercises-agenda/pull/10)_
 
 ##### 27/04 - Coleções - Coleções - Map
-- [ ] 26: _[Exercise - agenda-com-map](https://github.com/tryber/acc-java-02-exercises-agenda-com-map)_
+- [x] 26: _[Exercise - agenda-com-map](https://github.com/tryber/acc-java-02-exercises-agenda-com-map/pull/9)_
 
 ##### 28/04 - Coleções - Streams: o que são e como criá-las
-- [ ] 27: _[Exercise - criador-stream](https://github.com/tryber/acc-java-02-exercises-criador-stream)_
+- [x] 27: _[Exercise - criador-stream](https://github.com/tryber/acc-java-02-exercises-criador-stream/pull/6)_
 
 ##### 29/04 - Coleções - Operando sobre Streams
 - [ ] 29: _[Exercise - concessionaria](https://github.com/tryber/acc-java-02-exercises-excecao-leitura-arquivos)_
+
+
+## Datas :white_check_mark:
+
+#### Semana 6:
+##### 03/05 - Desafio Agregador
+- [ ] 5: _[Desafio - consulta-filmes](https://github.com/tryber/acc-java-02-exercises-consulta-filmes)_
+
+##### 03/05 - Datas - Datas com horários
+- [ ] 30: _[Exercise - simulador-rendimento](https://github.com/tryber/acc-java-02-exercises-simulador-rendimento)_
+
+##### 03/05 - Datas - Operações sobre datas ou horários
+- [ ] 31: _[Exercise - ano-bissexto](https://github.com/tryber/acc-java-02-exercises-ano-bissexto)_
+
+##### 04/05 - Desafio Agregador
+- [ ] 6: _[Desafio - planejamento-de-viagem](https://github.com/tryber/acc-java-02-exercises-planejamento-de-viagem)_
