@@ -90,7 +90,7 @@
 - [x] 27: _[Exercise - criador-stream](https://github.com/tryber/acc-java-02-exercises-criador-stream/pull/6)_
 
 ##### 29/04 - Coleções - Operando sobre Streams
-- [ ] 28: _[Exercise - concessionaria](https://github.com/tryber/acc-java-02-exercises-concessionaria/pull/14)_
+- [x] 28: _[Exercise - concessionaria](https://github.com/tryber/acc-java-02-exercises-concessionaria/pull/14)_
 
 
 ## Datas :white_check_mark:
@@ -100,7 +100,7 @@
 - [x] 5: _[Desafio - consulta-filmes](https://github.com/tryber/acc-java-02-exercises-consulta-filmes/pull/8)_
 
 ##### 03/05 - Datas - Datas com horários
-- [ ] 29: _[Exercise - simulador-rendimento](https://github.com/tryber/acc-java-02-exercises-simulador-rendimento)_
+- [x] 29: _[Exercise - simulador-rendimento](https://github.com/tryber/acc-java-02-exercises-simulador-rendimento/pull/11)_
 
 ##### 03/05 - Datas - Operações sobre datas ou horários
 - [ ] 30: _[Exercise - ano-bissexto](https://github.com/tryber/acc-java-02-exercises-ano-bissexto)_
