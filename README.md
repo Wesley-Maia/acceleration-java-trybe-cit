@@ -103,10 +103,23 @@
 - [x] 29: _[Exercise - simulador-rendimento](https://github.com/tryber/acc-java-02-exercises-simulador-rendimento/pull/11)_
 
 ##### 03/05 - Datas - Operações sobre datas ou horários
-- [ ] 30: _[Exercise - ano-bissexto](https://github.com/tryber/acc-java-02-exercises-ano-bissexto)_
+- [x] 30: _[Exercise - ano-bissexto](https://github.com/tryber/acc-java-02-exercises-ano-bissexto/pull/11)_
 
 ##### 04/05 - Desafio Agregador
-- [ ] 6: _[Desafio - planejamento-de-viagem](https://github.com/tryber/acc-java-02-exercises-planejamento-de-viagem)_
+- [x] 6: _[Desafio - planejamento-de-viagem](https://github.com/tryber/acc-java-02-exercises-planejamento-de-viagem/pull/9)_
 
 ##### 05/05 - Gestão de Dependências - Maven e Gradle
 - [ ] 31: _[Exercise - gradle-war](https://github.com/tryber/acc-java-02-exercises-gradle-war)_
+
+
+## Gestão de Dependências :white_check_mark:
+
+#### Semana 7:
+##### 10/05 - Desafio Agregador
+- [ ] 7: _[Desafio - planejamento-de-viagem](https://github.com/tryber/acc-java-02-exercises-bank-account)_
+
+##### 10/05 - Testes JUnit 5 - Testes unitários com JUnit 5
+- [ ] 32: _[Exercise - sistema-rh](https://github.com/tryber/acc-java-02-exercises-sistema-rh)_
+
+##### 10/05 - Testes JUnit 5 - TDD com JUnit 5
+- [ ] 33: _[Exercise - sistema-bancario](https://github.com/tryber/acc-java-02-exercises-bank-account)_
