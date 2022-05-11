@@ -116,10 +116,16 @@
 
 #### Semana 7:
 ##### 10/05 - Desafio Agregador
-- [ ] 7: _[Desafio - bank-account](https://github.com/tryber/acc-java-02-exercises-bank-account)_
+- [x] 7: _[Desafio - bank-account](https://github.com/tryber/acc-java-02-exercises-bank-account/pull/13)_
 
 ##### 10/05 - Testes JUnit 5 - Testes unitários com JUnit 5
 - [ ] 32: _[Exercise - sistema-rh](https://github.com/tryber/acc-java-02-exercises-sistema-rh)_
 
-##### 10/05 - Testes JUnit 5 - TDD com JUnit 5
+##### 11/05 - Testes JUnit 5 - TDD com JUnit 5
 - [ ] 33: _[Exercise - sistema-bancario](https://github.com/tryber/acc-java-02-exercises-sistema-bancario)_
+
+##### 12/05 - Desafio Agregador
+- [ ] 8: _[Desafio - caixa-eletronico](https://github.com/tryber/acc-java-02-exercises-caixa-eletronico)_
+
+##### 13/05 - ORM: Hibernate - Criando entidades
+- [ ] 34: _[Exercise - sistema-bancario](https://github.com/tryber/acc-java-02-exercises-veiculo-hibernate)_
