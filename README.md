@@ -119,7 +119,7 @@
 - [x] 7: _[Desafio - bank-account](https://github.com/tryber/acc-java-02-exercises-bank-account/pull/13)_
 
 ##### 10/05 - Testes JUnit 5 - Testes unitários com JUnit 5
-- [ ] 32: _[Exercise - sistema-rh](https://github.com/tryber/acc-java-02-exercises-sistema-rh)_
+- [x] 32: _[Exercise - sistema-rh](https://github.com/tryber/acc-java-02-exercises-sistema-rh/pull/8)_
 
 ##### 11/05 - Testes JUnit 5 - TDD com JUnit 5
 - [ ] 33: _[Exercise - sistema-bancario](https://github.com/tryber/acc-java-02-exercises-sistema-bancario)_
