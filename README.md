@@ -122,10 +122,10 @@
 - [x] 32: _[Exercise - sistema-rh](https://github.com/tryber/acc-java-02-exercises-sistema-rh/pull/8)_
 
 ##### 11/05 - Testes JUnit 5 - TDD com JUnit 5
-- [ ] 33: _[Exercise - sistema-bancario](https://github.com/tryber/acc-java-02-exercises-sistema-bancario)_
+- [x] 33: _[Exercise - sistema-bancario](https://github.com/tryber/acc-java-02-exercises-sistema-bancario/pull/7)_
 
 ##### 12/05 - Desafio Agregador
-- [ ] 8: _[Desafio - caixa-eletronico](https://github.com/tryber/acc-java-02-exercises-caixa-eletronico)_
+- [x] 8: _[Desafio - caixa-eletronico](https://github.com/tryber/acc-java-02-exercises-caixa-eletronico/pull/13)_
 
 ##### 13/05 - ORM: Hibernate - Criando entidades
 - [ ] 34: _[Exercise - sistema-bancario](https://github.com/tryber/acc-java-02-exercises-veiculo-hibernate)_
