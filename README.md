@@ -112,7 +112,7 @@
 - [x] 31: _[Exercise - gradle-war](https://github.com/tryber/acc-java-02-exercises-gradle-war/pull/9)_
 
 
-## Gestão de Dependências :white_check_mark:
+## Gestão de Dependências e Testes com JUnit5 :white_check_mark:
 
 #### Semana 7:
 ##### 10/05 - Desafio Agregador
@@ -129,3 +129,20 @@
 
 ##### 13/05 - ORM: Hibernate - Criando entidades
 - [ ] 34: _[Exercise - sistema-bancario](https://github.com/tryber/acc-java-02-exercises-veiculo-hibernate)_
+
+
+## ORM: Hibernate :white_check_mark:
+
+#### Semana 8:
+##### 17/05 - ORM: Hibernate - Relacionamentos e consultas
+- [ ] 35: _[Exercise - datacenter-catalogo](https://github.com/tryber/acc-java-02-exercises-datacenter-catalogo)_
+
+##### 18/05 - Desafio Agregador
+- [ ] 9: _[Desafio - gestao-time](https://github.com/tryber/acc-java-02-exercises-gestao-time)_
+
+##### 19/05 - ORM: Hibernate - Relacionamentos e consultas
+- [ ] 36: _[Exercise - api-rest-spring](https://github.com/tryber/acc-java-02-exercises-api-rest-spring)_
+
+##### 20/05 - ORM: Hibernate - Relacionamentos e consultas
+- [ ] 37: _[Exercise - search-cars](https://github.com/tryber/acc-java-02-exercises-search-cars)_
+
