@@ -128,7 +128,7 @@
 - [x] 8: _[Desafio - caixa-eletronico](https://github.com/tryber/acc-java-02-exercises-caixa-eletronico/pull/13)_
 
 ##### 13/05 - ORM: Hibernate - Criando entidades
-- [ ] 34: _[Exercise - sistema-bancario](https://github.com/tryber/acc-java-02-exercises-veiculo-hibernate)_
+- [ ] 34: _[Exercise - veiculo-hibernate](https://github.com/tryber/acc-java-02-exercises-veiculo-hibernate)_
 
 
 ## ORM: Hibernate :white_check_mark:
@@ -145,4 +145,22 @@
 
 ##### 20/05 - ORM: Hibernate - Relacionamentos e consultas
 - [ ] 37: _[Exercise - search-cars](https://github.com/tryber/acc-java-02-exercises-search-cars)_
+
+
+
+## Java Web :white_check_mark:
+
+#### Semana 9:
+##### 24/05 - Java Web - Fazendo deploy de uma aplicação
+- [ ] 38: _[Exercise - buzzwarn](https://github.com/tryber/acc-java-02-exercises-buzzwarn)_
+
+##### 25/05 - Desafio Agregador - Cadastro de Especialidades
+- [ ] 10: _[Desafio - cadastro-especialidades](https://github.com/tryber/acc-java-02-exercises-cadastro-especialidades)_
+
+##### 26/05 - Spring - Introdução ao Spring e Spring Boot
+- [ ] 39: _[Desafio - cadastro-especialidades](https://github.com/tryber/acc-java-02-exercises-cadastro-especialidades)_
+
+##### 27/05 - Spring - Injeção de Dependências e organização de uma aplicação Spring
+- [ ] 40: _[Exercise - injecao-de-dependencias-sistema-pagamentos](https://github.com/tryber/acc-java-02-exercises-injecao-de-dependencias-sistema-pagamentos)_
+
 
