@@ -128,22 +128,22 @@
 - [x] 8: _[Desafio - caixa-eletronico](https://github.com/tryber/acc-java-02-exercises-caixa-eletronico/pull/13)_
 
 ##### 13/05 - ORM: Hibernate - Criando entidades
-- [ ] 34: _[Exercise - veiculo-hibernate](https://github.com/tryber/acc-java-02-exercises-veiculo-hibernate)_
+- [x] 34: _[Exercise - veiculo-hibernate](https://github.com/tryber/acc-java-02-exercises-veiculo-hibernate/pull/9)_
 
 
 ## ORM: Hibernate :white_check_mark:
 
 #### Semana 8:
 ##### 17/05 - ORM: Hibernate - Relacionamentos e consultas
-- [ ] 35: _[Exercise - datacenter-catalogo](https://github.com/tryber/acc-java-02-exercises-datacenter-catalogo)_
+- [x] 35: _[Exercise - datacenter-catalogo](https://github.com/tryber/acc-java-02-exercises-datacenter-catalogo/pull/11)_
 
 ##### 18/05 - Desafio Agregador
-- [ ] 9: _[Desafio - gestao-time](https://github.com/tryber/acc-java-02-exercises-gestao-time)_
+- [x] 9: _[Desafio - gestao-time](https://github.com/tryber/acc-java-02-exercises-gestao-time/pull/12)_
 
-##### 19/05 - ORM: Hibernate - Relacionamentos e consultas
+##### 19/05 - Java Web - Como o Java vai para a Web?
 - [ ] 36: _[Exercise - api-rest-spring](https://github.com/tryber/acc-java-02-exercises-api-rest-spring)_
 
-##### 20/05 - ORM: Hibernate - Relacionamentos e consultas
+##### 20/05 - Java Web - Logs e Datasources
 - [ ] 37: _[Exercise - search-cars](https://github.com/tryber/acc-java-02-exercises-search-cars)_
 
 
@@ -158,7 +158,7 @@
 - [ ] 10: _[Desafio - cadastro-especialidades](https://github.com/tryber/acc-java-02-exercises-cadastro-especialidades)_
 
 ##### 26/05 - Spring - Introdução ao Spring e Spring Boot
-- [ ] 39: _[Desafio - cadastro-especialidades](https://github.com/tryber/acc-java-02-exercises-cadastro-especialidades)_
+- [ ] 39: _[Desafio - camadas-projeto-spring](https://github.com/tryber/acc-java-02-exercises-camadas-projeto-spring)_
 
 ##### 27/05 - Spring - Injeção de Dependências e organização de uma aplicação Spring
 - [ ] 40: _[Exercise - injecao-de-dependencias-sistema-pagamentos](https://github.com/tryber/acc-java-02-exercises-injecao-de-dependencias-sistema-pagamentos)_
