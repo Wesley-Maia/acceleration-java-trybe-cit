@@ -152,10 +152,10 @@
 
 #### Semana 9:
 ##### 24/05 - Java Web - Fazendo deploy de uma aplicação
-- [ ] 38: _[Exercise - buzzwarn](https://github.com/tryber/acc-java-02-exercises-buzzwarn)_
+- [x] 38: _[Exercise - buzzwarn](https://github.com/tryber/acc-java-02-exercises-buzzwarn/pull/10)_
 
 ##### 25/05 - Desafio Agregador - Cadastro de Especialidades
-- [ ] 10: _[Desafio - cadastro-especialidades](https://github.com/tryber/acc-java-02-exercises-cadastro-especialidades)_
+- [x] 10: _[Desafio - cadastro-especialidades](https://github.com/tryber/acc-java-02-exercises-cadastro-especialidades/pull/15)_
 
 ##### 26/05 - Spring - Introdução ao Spring e Spring Boot
 - [ ] 39: _[Desafio - camadas-projeto-spring](https://github.com/tryber/acc-java-02-exercises-camadas-projeto-spring)_
