@@ -158,7 +158,7 @@
 - [x] 10: _[Desafio - cadastro-especialidades](https://github.com/tryber/acc-java-02-exercises-cadastro-especialidades/pull/15)_
 
 ##### 26/05 - Spring - Introdução ao Spring e Spring Boot
-- [ ] 39: _[Desafio - camadas-projeto-spring](https://github.com/tryber/acc-java-02-exercises-camadas-projeto-spring)_
+- [x] 39: _[Exercise - camadas-projeto-spring](https://github.com/tryber/acc-java-02-exercises-camadas-projeto-spring/pull/6)_
 
 ##### 27/05 - Spring - Injeção de Dependências e organização de uma aplicação Spring
 - [ ] 40: _[Exercise - injecao-de-dependencias-sistema-pagamentos](https://github.com/tryber/acc-java-02-exercises-injecao-de-dependencias-sistema-pagamentos)_
@@ -172,12 +172,27 @@
 - [ ] 41: _[Exercise - pedro-quer-viajar](https://github.com/tryber/acc-java-02-exercises-pedro-quer-viajar)_
 
 ##### 01/06 - Spring - Testes no Spring
-- [ ] 11: _[Desafio - calcular-idade](https://github.com/tryber/acc-java-02-exercises-calcular-idade)_
+- [ ] 42: _[Exercise - calcular-idade](https://github.com/tryber/acc-java-02-exercises-calcular-idade)_
 
 ##### 02/06 - Spring - Deploy da Aplicação Spring com Heroku!
-- [ ] 42: _[Desafio - calculadora](https://github.com/tryber/acc-java-02-exercises-calculadora)_
+- [ ] 43: _[Exercise - calculadora](https://github.com/tryber/acc-java-02-exercises-calculadora)_
 
 ##### 03/06 - Desafio Agregador - Minhas Séries
-- [ ] 43: _[Exercise - minhas-series](https://github.com/tryber/acc-java-02-exercises-minhas-series)_
+- [ ] 11: _[Desafio - minhas-series](https://github.com/tryber/acc-java-02-exercises-minhas-series)_
 
 
+
+## Quarkus :white_check_mark:
+
+#### Semana 11:
+##### 07/06 - Quarkus - Introdução ao Quarkus
+- [ ] 44: _[Exercise - lista-produtos](https://github.com/tryber/acc-java-02-exercises-lista-produtos)_
+
+##### 08/06 - Quarkus - API C.R.U.D com tratamento de exceções
+- [ ] 45: _[Exercise - panache-restaurantes](https://github.com/tryber/acc-java-02-exercises-panache-restaurantes)_
+
+##### 09/06 - Quarkus - Testes com JUnit e Deploy no Heroku
+- [ ] 46: _[Exercise - programa-cadastro](https://github.com/tryber/acc-java-02-exercises-programa-cadastro)_
+
+##### 10/06 - Desafio agregador - Programa Milhas
+- [ ] 12: _[Desafio - programa-milhas](https://github.com/tryber/acc-java-02-exercises-programa-milhas)_
