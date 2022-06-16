@@ -161,7 +161,7 @@
 - [x] 39: _[Exercise - camadas-projeto-spring](https://github.com/tryber/acc-java-02-exercises-camadas-projeto-spring/pull/6)_
 
 ##### 27/05 - Spring - Injeção de Dependências e organização de uma aplicação Spring
-- [ ] 40: _[Exercise - injecao-de-dependencias-sistema-pagamentos](https://github.com/tryber/acc-java-02-exercises-injecao-de-dependencias-sistema-pagamentos)_
+- [x] 40: _[Exercise - injecao-de-dependencias-sistema-pagamentos](https://github.com/tryber/acc-java-02-exercises-injecao-de-dependencias-sistema-pagamentos/pull/8)_
 
 
 
@@ -169,16 +169,16 @@
 
 #### Semana 10:
 ##### 31/05 - Spring - REST, SQL e NoSQL
-- [ ] 41: _[Exercise - pedro-quer-viajar](https://github.com/tryber/acc-java-02-exercises-pedro-quer-viajar)_
+- [x] 41: _[Exercise - pedro-quer-viajar](https://github.com/tryber/acc-java-02-exercises-pedro-quer-viajar/pull/8)_
 
 ##### 01/06 - Spring - Testes no Spring
-- [ ] 42: _[Exercise - calcular-idade](https://github.com/tryber/acc-java-02-exercises-calcular-idade)_
+- [x] 42: _[Exercise - calcular-idade](https://github.com/tryber/acc-java-02-exercises-calcular-idade/pull/8)_
 
 ##### 02/06 - Spring - Deploy da Aplicação Spring com Heroku!
 - [ ] 43: _[Exercise - calculadora](https://github.com/tryber/acc-java-02-exercises-calculadora)_
 
 ##### 03/06 - Desafio Agregador - Minhas Séries
-- [ ] 11: _[Desafio - minhas-series](https://github.com/tryber/acc-java-02-exercises-minhas-series)_
+- [x] 11: _[Desafio - minhas-series](https://github.com/tryber/acc-java-02-exercises-minhas-series/pull/10)_
 
 
 
