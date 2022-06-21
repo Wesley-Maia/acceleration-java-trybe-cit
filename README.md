@@ -175,7 +175,7 @@
 - [x] 42: _[Exercise - calcular-idade](https://github.com/tryber/acc-java-02-exercises-calcular-idade/pull/8)_
 
 ##### 02/06 - Spring - Deploy da Aplicação Spring com Heroku!
-- [ ] 43: _[Exercise - calculadora](https://github.com/tryber/acc-java-02-exercises-calculadora)_
+- [x] 43: _[Exercise - calculadora](https://github.com/tryber/acc-java-02-exercises-calculadora/pull/4)_
 
 ##### 03/06 - Desafio Agregador - Minhas Séries
 - [x] 11: _[Desafio - minhas-series](https://github.com/tryber/acc-java-02-exercises-minhas-series/pull/10)_
@@ -186,7 +186,7 @@
 
 #### Semana 11:
 ##### 07/06 - Quarkus - Introdução ao Quarkus
-- [ ] 44: _[Exercise - lista-produtos](https://github.com/tryber/acc-java-02-exercises-lista-produtos)_
+- [x] 44: _[Exercise - lista-produtos](https://github.com/tryber/acc-java-02-exercises-lista-produtos/pull/10)_
 
 ##### 08/06 - Quarkus - API C.R.U.D com tratamento de exceções
 - [ ] 45: _[Exercise - panache-restaurantes](https://github.com/tryber/acc-java-02-exercises-panache-restaurantes)_
