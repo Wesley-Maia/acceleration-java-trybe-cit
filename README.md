@@ -189,10 +189,20 @@
 - [x] 44: _[Exercise - lista-produtos](https://github.com/tryber/acc-java-02-exercises-lista-produtos/pull/10)_
 
 ##### 08/06 - Quarkus - API C.R.U.D com tratamento de exceções
-- [ ] 45: _[Exercise - panache-restaurantes](https://github.com/tryber/acc-java-02-exercises-panache-restaurantes)_
+- [x] 45: _[Exercise - panache-restaurantes](https://github.com/tryber/acc-java-02-exercises-panache-restaurantes/pull/10)_
 
 ##### 09/06 - Quarkus - Testes com JUnit e Deploy no Heroku
 - [ ] 46: _[Exercise - programa-cadastro](https://github.com/tryber/acc-java-02-exercises-programa-cadastro)_
 
 ##### 10/06 - Desafio agregador - Programa Milhas
-- [ ] 12: _[Desafio - programa-milhas](https://github.com/tryber/acc-java-02-exercises-programa-milhas)_
+- [x] 12: _[Desafio - programa-milhas](https://github.com/tryber/acc-java-02-exercises-programa-milhas/pull/11)_
+
+
+## Containers :white_check_mark:
+
+#### Semana 12:
+##### 21/06 - Quarkus - Introdução ao Quarkus
+- [ ] 47: _[Exercise - testes-com-testcontainers](https://github.com/tryber/acc-java-02-exercises-testes-com-testcontainers)_
+
+##### 21/06 - Desafio agregador - Gerenciador de Estoques
+- [ ] 13: _[Desafio - gerenciador-de-estoque](https://github.com/tryber/acc-java-02-exercises-gerenciador-de-estoque)_
