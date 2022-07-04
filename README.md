@@ -17,11 +17,11 @@
 - [x] 8: _[Exercise - do-while-conexao-discada](https://github.com/tryber/acc-java-02-exercises-do-while-conexao-discada/pull/14)_
 - [x] 9: _[Exercise - do-while-conexao-discada](https://github.com/tryber/acc-java-02-exercises-for-numeros-pares/pull/14)_
 - [x] 10: _[Exercise - if-else-desafio-estado-brasileiro](https://github.com/tryber/acc-java-02-exercises-if-else-desafio-estado-brasileiro/pull/13)_
-- [ ] 11: _[Exercise - while-desafio-numeros-aleatorios](https://github.com/tryber/acc-java-02-exercises-while-desafio-numeros-aleatorios)_
+- [x] 11: _[Exercise - while-desafio-numeros-aleatorios](https://github.com/tryber/acc-java-02-exercises-while-desafio-numeros-aleatorios/pull/35)_
 
 ##### 31/03 - Essenciais de Java - Estruturas condicionais e de repetição
-- [ ] 12: _[Exercise - idade-em-dias](https://github.com/tryber/acc-java-02-exercises-idade-em-dias)_
-- [ ] 13: _[Exercise - media-anual](https://github.com/tryber/acc-java-02-exercises-media-anual)_
+- [x] 12: _[Exercise - idade-em-dias](https://github.com/tryber/acc-java-02-exercises-idade-em-dias/pull/32)_
+- [x] 13: _[Exercise - media-anual](https://github.com/tryber/acc-java-02-exercises-media-anual/pull/34)_
 
 ##### 01/04 - Desafio Agregador
 - [x] 1: _[Desafio - controle-de-acesso](https://github.com/tryber/acc-java-02-exercises-controle-de-acesso/pull/27)_
@@ -205,4 +205,4 @@
 - [ ] 47: _[Exercise - testes-com-testcontainers](https://github.com/tryber/acc-java-02-exercises-testes-com-testcontainers)_
 
 ##### 21/06 - Desafio agregador - Gerenciador de Estoques
-- [ ] 13: _[Desafio - gerenciador-de-estoque](https://github.com/tryber/acc-java-02-exercises-gerenciador-de-estoque)_
+- [x] 13: _[Desafio - gerenciador-de-estoque](https://github.com/tryber/acc-java-02-exercises-gerenciador-de-estoque/pull/10)_
